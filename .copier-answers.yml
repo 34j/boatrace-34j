@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier
+_commit: 4434a85
+_src_path: gh:34j/pypackage-template-fork
+copyright_year: '2026'
+documentation: true
+github_app_installation_ids: ''
+github_user: 34j
+has_cli: true
+initial_commit: true
+module_name: boatrace_34j
+open_source_license: GPL-3.0-only
+open_with_editor: true
+project_name: BOATRACE 34j
+project_short_description: BOAT RACE prediction
+project_slug: boatrace-34j
+run_uv_sync: true
+setup_github: true
+setup_pre_commit: true
+user_name: 34j
+version: 0.0.0
+
